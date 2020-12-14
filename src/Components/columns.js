@@ -1,0 +1,43 @@
+export const COLUMNS=[
+    {
+        Header:'ID',
+        Footer:'ID',
+        accessor:'id'
+        
+    },
+    {
+        Header:'Name',
+        Footer:'Name',
+        accessor:'name'
+    },
+    {
+        Header:'Email',
+        Footer:'Email',
+        accessor:'email'
+    },
+    {
+        Header:'Company',
+        Footer:'Company',
+        accessor:'company'
+    },
+    {
+        Header:'Job',
+        Footer:'Job',
+        accessor:'job'
+    },
+    {
+        Header:'City',
+        Footer:'City',
+        accessor:'city'
+    },
+    {
+        Header:'Phone',
+        Footer:'Phone',
+        accessor:'phone'
+    },
+    {
+        Header:'Movie',
+        Footer:'Movie',
+        accessor:'Fav Movie'
+    }
+]
